@@ -15,6 +15,6 @@ I'm an undergraduate student at Delhi Technological University (DTU), passionate
 - 💬 Ask me about problem-solving, data structures, and algorithmic thinking.
 - ⚡ Fun fact: I ask way too many “what if” questions.
 - 🌐 Connect with Me
-<p align="left"> <a href="www.linkedin.com/in/ayush-thakur-127256324" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/thkash18"><img src="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562.svg" /></a> </p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thkash18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-thakur-127256324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thkayush1@gmail.com) 
 
 
