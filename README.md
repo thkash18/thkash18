@@ -4,6 +4,7 @@
 **thkash18/thkash18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 💻 B.Tech CSE Student | ML Enthusiast
+
 I'm an undergraduate student at Delhi Technological University (DTU), passionate about web development, machine learning, and problem-solving. Always eager to learn new technologies and contribute to exciting projects!
 
 - 🌱 I’m currently exploring the tech world
